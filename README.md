@@ -46,5 +46,3 @@ You will know server is running by checking the output of the command `node app.
 
 Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
 
-### bugs
-- Server side validation for Login/ Sign-up  
