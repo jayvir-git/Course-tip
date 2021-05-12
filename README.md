@@ -46,3 +46,6 @@ You will know server is running by checking the output of the command `node app.
 
 Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
 
+### bugs
+- It currently does not let the user save any course.
+- It does not let the user search for any course.
